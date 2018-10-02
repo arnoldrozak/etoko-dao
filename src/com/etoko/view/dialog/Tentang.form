@@ -199,7 +199,7 @@
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel10">
               <Properties>
-                <Property name="text" type="java.lang.String" value="- arnoldvengeancee@gmail.com (Email)"/>
+                <Property name="text" type="java.lang.String" value="- arnoldrozak@gmail.com (Email)"/>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel11">

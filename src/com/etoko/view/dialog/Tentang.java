@@ -66,7 +66,7 @@ public class Tentang extends javax.swing.JDialog {
 
         jLabel9.setText("087887064380");
 
-        jLabel10.setText("- arnoldvengeancee@gmail.com (Email)");
+        jLabel10.setText("- arnoldrozak@gmail.com (Email)");
 
         jLabel11.setText("- arnoldsatan (Instagram)");
 
